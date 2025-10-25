@@ -54,6 +54,4 @@ func main() {
 	//i4 = "Hello Golang"
 
 	outer()
-
-	var s5 string = "Not User"
 }
